@@ -8,6 +8,7 @@ telescope at the Cerro Tololo Inter-American Observatory in Chile.
 3.9 m telescope situated at the Siding Spring Observatory in Australia, and the 10 m Keck-II telescope on Maunakea in Hawaii. 
 
 **If you use the data, please cite: de Jaeger et al. 2020**  
-https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stz2714/5579029?guestAccessKey=56e4f303-d32c-44bd-8d33-f016f8802188
+https://arxiv.org/pdf/2005.09757.pdf
+
 
 
